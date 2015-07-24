@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1161C450A54E4F817640EDB6AB59E6D4827F35A2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1161C450A54E4F817640EDB6AB59E6D4827F35A2" : 0,
+    "6507B0DEB010C31190F813DBDFE3CE0941F5276B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E53C5B5B-DA62-449B-BAB0-A845FE0EA725",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1161C450A54E4F817640EDB6AB59E6D4827F35A2" : "code-editor\/",
+    "6507B0DEB010C31190F813DBDFE3CE0941F5276B" : "data-structure\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CodeEditor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CodeEditor.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fleurdeswift\/code-editor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1161C450A54E4F817640EDB6AB59E6D4827F35A2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fleurdeswift\/data-structure.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6507B0DEB010C31190F813DBDFE3CE0941F5276B"
+    }
+  ]
+}

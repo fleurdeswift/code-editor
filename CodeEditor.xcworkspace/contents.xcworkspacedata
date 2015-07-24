@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../data-structure/ExtraDataStructures.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeEditorApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeEditorCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeEditorView.xcodeproj">
+   </FileRef>
+</Workspace>
